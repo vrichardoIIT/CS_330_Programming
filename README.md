@@ -21,7 +21,9 @@ before starting make sure that both git and JAVA is installed on your device. I 
 ## Setup
 ### set up instructions are written based on a windows environment(command prompt) 
 firstly clone the repository, enter the following statement to your command prompt at you desired location
-  git clone https://github.com/vrichardoIIT/CS_330_Programming.git
+    
+    
+    git clone https://github.com/vrichardoIIT/CS_330_Programming.git
   
 executable is already created so there is no need to make one. However, if one choose to they my run the following statement
 (gradle is required inorder to proceed).
