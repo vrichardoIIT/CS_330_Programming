@@ -39,13 +39,8 @@ executable is already created so there is no need to make one. However, if one c
                 gradle clean
         
    * build executable 
-            
-                gradle build 
-            
-            
-   * then run the following task
-            
-                gradle shadowJar
+          
+             gradle shadowJar
             
    2, for part two, we follow the same process as part one. however, because the project is located in a different location we must navigate to that location
       
